@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Yamato Sushi.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
